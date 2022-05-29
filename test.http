@@ -1,0 +1,9 @@
+POST http://localhost:8282/
+Content-Type: application/json
+
+{
+  "use": "text_from_use_tag",
+  "text": "data_from_text_tag",
+  "recordid": 30
+}
+###
